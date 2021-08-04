@@ -27,14 +27,14 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 ---
 ### The story
 
-I have been interacting with an artist (MJL) over reddit for a while and with a view to supporting the Ravencoin (RVN) community, MJL started creating digital arts as NFTs on RVN and I, buying them using RVNs- all of them were great works. I have been more bullish on Algorand blockchain though and I had read Algo supports minting of NFTs. I proposed creation of NFTs on Algo and MJL was open to the idea. Thing is both of us did not know how to create an NFT on Algo and I offered to learn to create an NFT on Algo (I know, the confidence right? :D) and MJL offered a discount in return. Below is the steps I followed- writing it down so I don't forget and so that it acts like a tutorial of sorts for a non-tech person (like an artist like MJL) to create an NFT without having to rely on a third party developer\website.
+I have been interacting with an artist (MJL) over reddit for a while and with a view to supporting the Ravencoin (RVN) community, MJL started creating digital arts as NFTs on RVN and I, buying them using RVNs- all of them were great works! (but that's a story for another day I guess). I have been more bullish on Algorand blockchain though and I had read Algo supports minting of NFTs. I proposed creation of NFTs on Algo and MJL was open to the idea. Thing is both of us did not know how to create an NFT on Algo and I offered to learn to create an NFT on Algo (I know, the confidence right? :D) and MJL offered a discount in return. Below is the steps I followed- writing it down so I don't forget and so that it acts like a tutorial of sorts for a non-tech person (like an artist like MJL) to create an NFT without having to rely on a third party developer\website.
 
 ### Reference Article
 

@@ -27,10 +27,10 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 ---
 * Introduction: (a) The author refers to an essay by Samuel Gorovitz and Alasdair MacIntyre on the nature of human fallibility and they mention that there are only two reasons why we fail at things which are in our control- one, ignorance and two, ineptitude-i.e. we possess the knowledge, but apply it incorrectly. Ineptitude remains common because know-how and complexity expanded exponentially over the years and has exceeded our individual ability to deliver its benefits correctly. The strategy that the author puts forward to solve for this issue is use of checklists.
 
