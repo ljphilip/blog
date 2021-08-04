@@ -79,13 +79,13 @@ params:
         Title: "Hi there \U0001F44B"
         Content: Welcome to my blog
 
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: youtube
-          url: "https://www.youtube.com/channel/UC7OZATO9nijA5Fw7HZ1EEKw"
-        - name: github
-          url: "https://github.com/ljphilip"
+    #socialIcons:
+        #- name: twitter
+        #  url: "https://twitter.com/"
+        #- name: youtube
+        #  url: "https://www.youtube.com/channel/UC7OZATO9nijA5Fw7HZ1EEKw"
+        #- name: github
+        #  url: "https://github.com/ljphilip"
 
     #analytics:
         #google:
