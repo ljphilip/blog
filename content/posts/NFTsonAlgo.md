@@ -8,7 +8,7 @@ author: "LJP"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "A step by step guide on minting NFTs on Algorand blockchain using Goal CLI"
